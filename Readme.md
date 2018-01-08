@@ -1,1 +1,0 @@
-This is vendor tree for Lenovo K8 Note(Manning Device).
