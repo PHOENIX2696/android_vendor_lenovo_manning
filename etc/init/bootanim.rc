@@ -1,7 +1,6 @@
-# Modify by lishaoxiong for fixed no bootup audio by changed user from graphics to media 2017-03-16.
 service bootanim /system/bin/bootanimation
     class core
-    user media
+    user graphics
     group graphics audio
     disabled
     oneshot

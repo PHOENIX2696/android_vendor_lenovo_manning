@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!--
-   Lenovo SPN version: V6.1
+   Lenovo SPN version: V5.9
 -->
 <spnOverrides version="1">
 <spnOverride numeric="3100" spn="NEPW"/>
@@ -229,7 +229,7 @@
 <spnOverride numeric="28802" spn="VODAFONE"/>
 <spnOverride numeric="29001" spn="TELE GRL"/>
 <spnOverride numeric="29266" spn="SMT"/>
-<spnOverride numeric="29340" spn="A1"/>
+<spnOverride numeric="29340" spn="Si.mobil"/>
 <spnOverride numeric="29341" spn="Mobitel"/>
 <spnOverride numeric="29364" spn="T-2"/>
 <spnOverride numeric="29370" spn="TELEMACH"/>
@@ -559,7 +559,7 @@
 <spnOverride numeric="51505" spn="SUN"/>
 <spnOverride numeric="51511" spn="ACeS"/>
 <spnOverride numeric="51518" spn="CURE"/>
-<spnOverride numeric="52000" spn="TH 3G+"/>
+<spnOverride numeric="52000" spn="TRUE-H"/>
 <spnOverride numeric="52001" spn="AIS GSM"/>
 <spnOverride numeric="52003" spn="AIS"/>
 <spnOverride numeric="52004" spn="TRUE-H"/>
@@ -570,7 +570,7 @@
 <spnOverride numeric="52020" spn="ACeS"/>
 <spnOverride numeric="52023" spn="TH GSM 1800"/>
 <spnOverride numeric="52025" spn="WE PCT"/>
-<spnOverride numeric="52099" spn="TRUE-H"/>
+<spnOverride numeric="52099" spn="TRUE"/>
 <spnOverride numeric="52501" spn="Singtel"/>
 <spnOverride numeric="52502" spn="Singtel"/>
 <spnOverride numeric="52503" spn="M1"/>
@@ -748,7 +748,7 @@
 <spnOverride numeric="65310" spn="SwaziMTN"/>
 <spnOverride numeric="65501" spn="VodaCom-SA"/>
 <spnOverride numeric="65502" spn="TelkomSA"/>
-<spnOverride numeric="65507" spn="FNB"/>
+<spnOverride numeric="65507" spn="Cell C"/>
 <spnOverride numeric="65510" spn="MTN-SA"/>
 <spnOverride numeric="70267" spn="BTL"/>
 <spnOverride numeric="70401" spn="ClaroGTM"/>
@@ -1100,7 +1100,7 @@
 <spnOverride numeric="710300" spn="Movistar"/>
 <spnOverride numeric="714020" spn="Movistar"/>
 <spnOverride numeric="722070" spn="Movistar"/>
-<spnOverride numeric="722310" spn="CLARO AR"/>
+<spnOverride numeric="722310" spn="CLARO"/>
 <spnOverride numeric="722340" spn="AR PERSONAL"/>
 <spnOverride numeric="732101" spn="Claro"/>
 <spnOverride numeric="732102" spn="COL_TEMC"/>
